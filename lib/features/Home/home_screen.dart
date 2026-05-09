@@ -1,6 +1,6 @@
 import 'package:assignment2/features/Home/cubit/cubit.logic.dart';
 import 'package:assignment2/features/Home/cubit/states.dart';
-import 'package:assignment2/features/Home/edit_screen.dart';
+import 'package:assignment2/features/edit/edit_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
